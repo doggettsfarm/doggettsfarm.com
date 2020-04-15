@@ -1,0 +1,26 @@
+<header class="govuk-header app-header" role="banner" data-module="govuk-header">
+  {%- assign default_paths = site.pages | map: "path" -%}
+  {%- assign page_paths = site.header_pages | default: default_paths -%}
+  <div class="govuk-header__container govuk-width-container app-header__container">
+    <a href="/" class="govuk-header__link govuk-header__link--service-name app-home__link">
+      {{ site.title | escape }}
+    </a>
+    <div class="govuk-header__content app-header__content">
+      <button type="button" class="govuk-header__menu-button govuk-js-header-toggle" aria-controls="navigation" aria-label="Show or hide Top Level Navigation">Menu</button>
+      <nav>
+        <ul id="navigation" class="govuk-header__navigation " aria-label="Top Level Navigation">
+          {%- for path in page_paths -%}
+            {%- assign my_page = site.pages | where: "path", path | first -%}
+            {%- if my_page.title -%}
+              <li class="govuk-header__navigation-item">
+                <a class="govuk-header__link app-header__link" href="{{ my_page.url | relative_url }}">
+                  {{ my_page.title | escape }}
+                </a>
+              </li>
+            {%- endif -%}
+          {%- endfor -%}
+        </ul>
+      </nav>
+    </div>
+  </div>
+</header>
