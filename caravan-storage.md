@@ -1,6 +1,7 @@
 ---
 layout: content
 title: Caravan storage
+description: Secure caravan storage at Doggetts farm in Rochford, Essex. Covered pitches available. Contact us for details.
 permalink: /caravan-storage/
 ---
 

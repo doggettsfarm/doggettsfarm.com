@@ -1,6 +1,7 @@
 ---
 layout: content
 title: Container storage
+description: Secure shipping container storage for rent at Doggetts Farm in Rochford, Essex. Contact us for details.
 permalink: /container-storage/
 ---
 

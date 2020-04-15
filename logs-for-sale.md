@@ -1,6 +1,7 @@
 ---
 layout: content
 title: Logs for sale
+description: Seasoned, hardwood logs for sale at Doggetts Farm, Rochford, Essex. Free delivery to Rochford, Ashingdon, Canewdon and local areas.
 permalink: /logs-for-sale/
 ---
 

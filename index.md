@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Doggetts farm
+title: Doggetts Farm
 hide_breadcrumbs: true
 ---
 
