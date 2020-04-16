@@ -8,7 +8,7 @@ hide_breadcrumbs: true
 ---
 
 {:.govuk-body}
-Doggetts is a family-run arable farm in Rochford.
+Doggetts is a family-run arable farm in Rochford, Essex.
 
 {:.govuk-body}
 We can [safely store your caravan/campervan](/caravan-storage) and have [shipping containers to let](container-storage).

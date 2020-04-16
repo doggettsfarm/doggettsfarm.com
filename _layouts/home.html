@@ -16,3 +16,48 @@ layout: default
   </div>
   {%- include sidebar_nav.html -%}
 </div>
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "image": [
+      "https://www.doggettsfarm.com/assets/combine/combine-1x1.jpg",
+      "https://www.doggettsfarm.com/assets/combine/combine-4x3.jpg",
+      "https://www.doggettsfarm.com/assets/combine/combine-16x9.jpg"
+      ],
+    "@id": "https://www.doggettsfarm.com/",
+    "name": "{{ page.title }}",
+    "text": "{{ site.description || page.description }}",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Doggetts, Doggetts Chase",
+      "addressLocality": "Rochford",
+      "addressRegion": "Essex",
+      "postalCode": "SS4 3RN",
+      "addressCountry": "UK"
+    },
+    "email": "info@doggettsfarm.com",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 51.595676,
+      "longitude": 0.7137753
+    },
+    "url": "https://www.doggettsfarm.com/",
+    "priceRange": "$$",
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+      }
+    ]
+  }
+</script>
