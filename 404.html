@@ -1,24 +1,21 @@
 ---
 layout: default
+title: "Page not found"
 ---
 
-<style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-full">
+    <h1 class="govuk-heading-xl">{{ page.title }}</h1>
+  </div>
+</div>
 
-<div class="container">
-  <h1>404</h1>
-
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
+    <p class="govuk-body">
+      Unfortunately, we've found a problem.
+    </p>
+    <p class="govuk-body">
+      Why not try going to <a href="/">the home page</a> and seeing what you can find?
+    </p>
+  </div>
 </div>
