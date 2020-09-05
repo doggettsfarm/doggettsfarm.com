@@ -8,6 +8,9 @@ permalink: /caravan-storage/
 {:.govuk-heading-l}
 ## Secure caravan storage at reasonable prices
 
+{:.govuk-inset-text}
+Our caravan storage is now full. Check back here to find when we have space available again.
+
 {:.govuk-body}
 We can store your caravan or camper, with covered and outdoor spots available.
 
