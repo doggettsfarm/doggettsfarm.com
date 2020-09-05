@@ -14,6 +14,9 @@ Doggetts is a family-run arable farm in Rochford, Essex.
 {:.govuk-body}
 We can [safely store your caravan/campervan](/caravan-storage) and have [shipping containers to let](container-storage).
 
+{:.govuk-inset-text}
+Our caravan storage is now full. Check back here to find when we have space available again.
+
 {:.govuk-body}
 We also have [haylage](/contact) and [logs for sale](/logs-for-sale).
 
@@ -21,7 +24,7 @@ We also have [haylage](/contact) and [logs for sale](/logs-for-sale).
 ## Coronavirus update
 
 {:.govuk-body}
-We understand that the footpath along Doggetts Chase is really important to a lot of people in Rochford keeping mentally and physically fit, especially when we're under lock down.
+We understand that the footpath along Doggetts Chase is really important to a lot of people in Rochford keeping mentally and physically fit, especially when we're socially distancing.
 
 {:.govuk-body}
 Please help keep everyone healthy by making sure that you:
@@ -50,8 +53,8 @@ A footpath runs down the length of [Doggetts Chase](https://goo.gl/maps/uPhC6CQu
 Follow [the Countryside Code](https://en.wikipedia.org/wiki/The_Country_Code):
 
 {:.govuk-list .govuk-list--bullet}
-* keep dogs under close control
-* pick up after yourselves
+* keep [dogs under close control](https://ww2.rspb.org.uk/birds-and-wildlife/bird-and-wildlife-guides/ask-an-expert/previous/dog_disturbs_bird.aspx)
+* [pick up after yourselves](https://www.rspca.org.uk/adviceandwelfare/litter)
 * keep to the footpath
 
 ![Four alpacas having a breakfast of feed and carrots, with a fifth keeping watch like a meerkat](/assets/alpacas-min.jpg)
