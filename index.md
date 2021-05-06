@@ -12,6 +12,9 @@ hide_breadcrumbs: true
 Doggetts is a family-run arable farm in Rochford, Essex.
 
 {:.govuk-body}
+[Find out about the Pod](/pod) or check out [our Facebook page](https://www.facebook.com/Doggettsfarm/)
+
+{:.govuk-body}
 We can [safely store your caravan/campervan](/caravan-storage) and have [shipping containers to let](container-storage).
 
 {:.govuk-inset-text}
