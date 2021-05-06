@@ -2,7 +2,7 @@
   "name": "doggettsfarm.com",
   "private": true,
   "dependencies": {
-    "govuk-frontend": "^3.6.0"
+    "govuk-frontend": "^3.11.0"
   },
   "version": "0.1.0"
 }
